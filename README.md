@@ -11,4 +11,6 @@ It gives final top2 accuracy is 0.61 and the final top5 accuracy is 0.71.
  it can be called as >> Python SearchQuestion.py “your question”
  __make sure you have glove file downloaded to run successfully__
 
-`question_retrieval.ipynb` described more detailed processing and experiments.
+`question_retrieval.ipynb` described more intermediate step results and experiments.
+
+__detailed processing and discussion can be find in `question_retrieval.pdf`__
