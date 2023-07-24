@@ -8,6 +8,7 @@ The best result is given by sentence embedding based on the paper, huge data siz
 
 It gives final top2 accuracy is 0.61 and the final top5 accuracy is 0.71.
 
+
  `SearchQuestion.py` only integrate the best method (sentence embedding based on the paper) 
  
  it can be called as >> Python SearchQuestion.py “your question”
