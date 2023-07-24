@@ -1,4 +1,4 @@
-# query_retrieval
+# Query_retrieval
 
 The aim of this project is to question retravel: given a question, it will be matching through the question library where store all the existing questions and return the most similar questions.
 
